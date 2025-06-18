@@ -1,0 +1,16 @@
+edu/unam/controladores/PedidosController.class
+edu/unam/modelo/EstadoPedido.class
+edu/unam/modelo/Pedido.class
+edu/unam/modelo/ItemPedido.class
+edu/unam/App.class
+edu/unam/controladores/CargarPedidoController.class
+edu/unam/servicios/Servicio.class
+edu/unam/modelo/Proveedor.class
+edu/unam/controladores/ProductosController.class
+edu/unam/controladores/PrincipalController.class
+edu/unam/controladores/ProveedoresController.class
+edu/unam/controladores/VerPedidoController.class
+edu/unam/controladores/Alerta.class
+edu/unam/AppLauncher.class
+edu/unam/repositorios/Repositorio.class
+edu/unam/modelo/Producto.class
