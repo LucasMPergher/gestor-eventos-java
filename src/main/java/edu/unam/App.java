@@ -39,8 +39,10 @@ public class App extends Application {
 
     @Override
     public void start(Stage stage) throws IOException {
+
         // creación del manejador de la conexión
         var emf = Persistence.createEntityManagerFactory("eventos");
+
         // crea el servicio y repositorio
         servicio = new Servicio(new Repositorio(emf));
 
